@@ -7,4 +7,4 @@ if(sub1<33 or sub2<33 or sub3<33):
 elif(sub1+sub2+sub3)/3<40:
     print("you have beeen failed because you got less pecentage of total")   
 else:                                                                          #OR          #elif(sub1>33 or sub2>33 or sub3>33):
-    print("congrats,you have been passed")                                              # we can use else or elif
+    print("congrats,you have passed")                                              # we can use else or elif
